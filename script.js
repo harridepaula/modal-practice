@@ -1,3 +1,5 @@
+'use strict';
+
 // Variables
 
 let openBtn = document.getElementById('open-btn');
